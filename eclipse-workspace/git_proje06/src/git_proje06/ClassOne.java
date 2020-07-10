@@ -6,6 +6,7 @@ public class ClassOne {
 		// TODO Auto-generated method stub
 		
 		System.out.println("ilk commit local masterdan");
+		System.out.println("ilk commit local masterdan");
 		
 
 	}
